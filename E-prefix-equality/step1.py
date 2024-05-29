@@ -1,4 +1,5 @@
 """
+https://atcoder.jp/contests/abc250/tasks/abc250_e
 xorは順番によらないから、要素が同じであればほとんどの場合同じになる
 """
 

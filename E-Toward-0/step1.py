@@ -1,4 +1,5 @@
 """
+https://atcoder.jp/contests/abc350/tasks/abc350_e
 再帰関数で求める
 f(n) = (f(n) + f(n // 2) + f(n // 3)...) / 6 + dice_fee
 → 5/6*f(n) = (f(n // 2) + f(n // 3)...) / 6 + dice_fee

@@ -1,4 +1,5 @@
 """
+https://atcoder.jp/contests/abc023/tasks/abc023_d
 割る順番を決める
 高度を二分探索して、その高度になるまでの時間のリストを達成できるかを調べる
 

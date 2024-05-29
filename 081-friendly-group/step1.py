@@ -1,4 +1,5 @@
 """
+https://atcoder.jp/contests/typical90/tasks/typical90_cc
 board自体は(H+1)*(W+1)になってる
 iとjで指すのは区間の外。i+1, j+1が左上の正方形区間
 """
